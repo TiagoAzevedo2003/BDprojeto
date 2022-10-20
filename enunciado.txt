@@ -1,0 +1,31 @@
+Mundial de Futebol do Catar
+
+- Fase de grupos
+
+O mundial é composto por 32 equipas, divididas em 8 grupos de 4 equipas
+Em cada grupo as equipas enfrentam-se todas contra todas
+As duas equipas de cada grupo com mais pontos no final das 3 jornadas passam à fase a eliminar, as duas últimas são eliminadas
+Em caso de igualdade pontual entre equipas, passa a equipa que tiver um saldo de golos melhor
+Se a igualdade ainda se verificar, passa a equipa com mais golos marcados
+
+- Fase a eliminar
+
+Passam 16 das 32 equipas da fase de grupos, que se vão encontrar duas a duas nos oitavos de final
+Uma equipa que termine o seu grupo em primeiro lugar defronta uma equipa que terminou o seu grupo em segundo
+A equipa que vencer cada jogo dos oitavos de final avança para os quartos de final
+A equipa que vencer cada jogo dos quartos de final avança para as meias finais
+A equipa que vencer cada jogo das meias finais avança para a final
+A equipa que vencer a final é campeã
+
+- Jogo
+
+Cada jogo tem uma data
+Em cada jogo deve ser registado o resultado, a equipa que joga em casa e a equipa que joga fora e os marcadores dos golos
+
+- Equipa
+
+Cada equipa tem um nome, numero de golos marcados e sofridos (e saldo de golos) e tem jogadores
+
+- Grupo
+
+Cada grupo tem um nome, 4 equipas e uma classificaçao
